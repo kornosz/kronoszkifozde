@@ -80,7 +80,7 @@ const HomePage = () => {
         </div>
         <div className="absolute inset-0">
           <img 
-            src="https://images.unsplash.com/photo-1555992336-fb0d29498b13?w=1600" 
+            src="https://images.unsplash.com/photo-1555993539-1732b0258235?w=1600" 
             alt="Greek temple" 
             className="w-full h-full object-cover opacity-20"
           />
